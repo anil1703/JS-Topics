@@ -67,7 +67,7 @@ class App extends React.Component {
 
 // 2 ) Functional Compoenents
 // -> Funcatinali compoennt is the javascript code , that will return the react element which is nothing bu jsx code
-// -> before the ES6 version , the functinali components are nothing but state less components
+// -> before the react hooks introduced , the functinali components are nothing but state less components
 // -> we can use the functional components without inheriting the react component
 // -> After the hooks introduced , it has the state in other terms like by using react hooks
 // -> we can use the functional components without render method , it will return the react elements automatically
